@@ -1,0 +1,14 @@
+{
+  "source_digest": "89ee11e72c370ed8c5ed0809341866dd5e60c21f7035de0d525c88e6b7c92ec6",
+  "schema_version": 2,
+  "completed": false,
+  "translated_front_matter": "---\ntitle: 索引\nweight: 550\nbreadcrumbs: false\n---\n",
+  "completed_translatable": 3,
+  "segment_index": 4,
+  "rendered_segments": [
+    "\n",
+    "### 符号\n",
+    "- 3FS（分布式文件系统，参见《第十一章：批处理系统》第11.2节“分布式文件系统”）\n",
+    "### 甲\n"
+  ]
+}

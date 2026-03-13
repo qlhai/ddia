@@ -1,0 +1,24 @@
+{
+  "source_digest": "9310e56368f07b7c9d0451cfa8825e8e65240c6e42c78887b7e58684c80e1823",
+  "schema_version": 2,
+  "completed": true,
+  "translated_front_matter": "---\ntitle: \"数据密集型应用设计（第2版）\"\nlinkTitle: DDIA\ncascade:\n  type: docs\nbreadcrumbs: false\n---\n",
+  "completed_translatable": 11,
+  "segment_index": 14,
+  "rendered_segments": [
+    "—— **构建可靠、可扩展、可维护系统的根本思想**\n\n[马丁·克莱普曼](https://martin.kleppmann.com)\n\n> 英文原版仅包含各章的**引言**、**小结**与**参考文献**，以保护作者及出版方的知识产权。\n\n![](/title.jpg)\n\n--------\n\n*技术是社会中一股强大之力。数据、软件与通信，*\n\n*既可为恶：固化不公的权力结构，侵蚀人权，庇护既得利益；*\n\n*亦可为善：令边缘群体发声，为所有人创造机会，防患于未然。本书献给所有致力于向善之途的践行者。*\n\n---------\n\n*计算科学乃流行文化。……流行文化蔑视历史。它关乎身份认同，关乎“参与感”；却与协作、过去或未来无关——它只活在当下。我以为，多数为生计而写代码者，亦复如是：全然不知自身所处之文化源流何在。*\n\n — [艾伦·凯](http://www.drdobbs.com/architecture-and-design/interview-with-alan-kay/240003442)，《Dr Dobb’s Journal》访谈（2012年）\n",
+    "## 目录\n",
+    "\n",
+    "### [序言](/zh/preface)\n",
+    "\n",
+    "### [第一部分：数据系统基础](/en/part-i)\n",
+    "- [1. 数据系统架构中的权衡](/en/ch1)  \n- [2. 非功能性需求的定义](/en/ch2)  \n- [3. 数据模型与查询语言](/en/ch3)  \n- [4. 存储与检索](/en/ch4)  \n- [5. 编码与演进](/en/ch5)\n",
+    "### [第二部分：分布式数据](/en/part-ii)\n",
+    "- [6. 复制](/zh/ch6)  \n- [7. 分片](/zh/ch7)  \n- [8. 事务](/zh/ch8)  \n- [9. 分布式系统的困境](/zh/ch9)  \n- [10. 一致性与共识](/zh/ch10)\n",
+    "### [第三部分：派生数据](/en/part-iii)\n",
+    "- [11. 批处理](/en/ch11)  \n- [12. 流处理](/en/ch12)  \n- [13. 流式系统的设计哲学](/en/ch13)  \n- [14. 正确行事](/en/ch14)\n",
+    "### [术语表](/zh/glossary)\n",
+    "\n",
+    "### [出版说明](/zh/colophon)\n"
+  ]
+}
